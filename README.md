@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hannah! I'm a full-stack developer and this is my Github. Have a look around!
+### Hi there 👋 I'm Hannah! I'm a frontend developer with a fullstack ambition and this is my Github. Have a look around!
 
 - 📫 How to reach me: ekhannahek@gmail.com 
 - :notebook_with_decorative_cover: Link to my Portfolio: https://www.hannahek.com
